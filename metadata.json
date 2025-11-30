@@ -1,0 +1,7 @@
+{
+  "name": "LinguaFlow Live",
+  "description": "Real-time bidirectional speech translator powered by Gemini Live API. Automatically detects languages and translates to/from your target language.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
